@@ -4,7 +4,7 @@
 
 
 ### Data 
-data comes from LCCC(TsingHua university) and ROC& WP（）  
+data comes from LCCC(TsingHua university) and ROC& WP（\cite:https://github.com/thu-coai/HINT）  
 #### Train 
      ''' 
      1\  python -u Pretrain.py 
